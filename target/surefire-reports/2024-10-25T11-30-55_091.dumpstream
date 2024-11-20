@@ -1,0 +1,5 @@
+# Created at 2024-10-25T11:30:55.910
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Official\OneDrive - Indium Software India Private Limited\Desktop\Sel\WorkSpace\HybridFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

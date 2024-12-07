@@ -1,1 +1,4 @@
+testCases\sample.class
+testCases\CreateCourse.class
 testCases\LoginTest.class
+testCases\CreateCourse2.class
